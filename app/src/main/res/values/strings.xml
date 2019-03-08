@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GLAFeedbacker</string>
+
+    <string-array name="member_type">
+        <item>Who are you?</item>
+        <item>Faculty</item>
+        <item>Student</item>
+        <item>Employee</item>
+    </string-array>
 </resources>

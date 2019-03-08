@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117417260582",
+    "firebase_url": "https://glafeedbacker.firebaseio.com",
+    "project_id": "glafeedbacker",
+    "storage_bucket": "glafeedbacker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117417260582:android:c2e453828bd36eb9",
+        "android_client_info": {
+          "package_name": "com.amitsharma.action.glafeedbacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117417260582-icni6lnqt9d3loas4p676cqisal8cbe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amitsharma.action.glafeedbacker",
+            "certificate_hash": "35201d2be4bfcf4e45205a35d97a9631143212ac"
+          }
+        },
+        {
+          "client_id": "117417260582-tajqafqvr67jf0c635kb2di347amlf7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lLq-c55ghahNVoxAsEUfqf2QzEIyhW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117417260582-tajqafqvr67jf0c635kb2di347amlf7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
