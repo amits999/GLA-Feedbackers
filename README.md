@@ -44,7 +44,6 @@ ___
 > Will make the selection process more efficient.
 
 ```
-
 ___
 
 #### LITERATURE SURVEY / FEASIBILITY STUDY
@@ -134,5 +133,34 @@ online regarding the lecturer’s teaching, hostel facilities, and mess food. Wi
 can successfully submit feedback in a very efficient manner without any loss of data.
 The administrator and the faculty members can access these feedback from the students and take appropriate actions.
 ```
-
 ___
+
+## Mock-Up Screens
+
+
+#### Home Screen
+![home sreen](./images/home.png)
+
+
+#### Auth Screen
+![chooser Layout](./images/main.png)
+
+
+#### Login Screen
+![gla university logo](./images/login.png)
+
+
+#### Signup Screen
+![gla university logo](./images/signup.png)
+
+
+#### Main Panel Screen
+![gla university logo](./images/mainpanel.png)
+
+
+#### Navigation drawer Screen
+![gla university logo](./images/drawer.png)
+
+
+#### New Feedback Screen
+![gla university logo](./images/newfeed.png)
