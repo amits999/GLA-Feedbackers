@@ -20,7 +20,7 @@ public class MainPanelActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main_panel);
 
-        mToolbar=(Toolbar) findViewById(R.id.main_app_bar);
+        mToolbar=(Toolbar) findViewById(R.id.student_page_bar);
         setSupportActionBar(mToolbar);
         getSupportActionBar().setTitle("  Hi, Amit");
         //getSupportActionBar().setIcon(getDrawable(R.drawable.app_bar_icon));

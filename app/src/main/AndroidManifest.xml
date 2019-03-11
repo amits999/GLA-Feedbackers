@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/app_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainPanelActivity"></activity>
+        <activity android:name=".CompleteFeedbackActivity"></activity>
+        <activity android:name=".MainPanelActivity" />
         <activity android:name=".ResetPasswordActivity" />
         <activity android:name=".RegistrationActivity" />
         <activity android:name=".LoginActivity" />
