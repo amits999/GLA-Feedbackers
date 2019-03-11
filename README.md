@@ -147,20 +147,24 @@ ___
 
 
 #### Login Screen
-![gla university logo](./images/login.png)
+![login](./images/login.png)
 
 
 #### Signup Screen
-![gla university logo](./images/signup.png)
+![signup](./images/signup.png)
 
 
 #### Main Panel Screen
-![gla university logo](./images/mainpanel.png)
+![main panel](./images/mainpanel.png)
 
 
 #### Navigation drawer Screen
-![gla university logo](./images/drawer.png)
+![drawer](./images/drawer.png)
 
 
 #### New Feedback Screen
-![gla university logo](./images/newfeed.png)
+![newfeed](./images/newfeed.png)
+
+
+#### Wireframe
+![wireframe image](./images/wireframe.PNG)
