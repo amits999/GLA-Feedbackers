@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimary">#607D8B</color>
     <color name="colorPrimaryDark">#455A64</color>
-    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorAccent">#8A8383</color>
 
-    <color name="colorPrimaryLight">#cfd8dc</color>
+    <color name="colorPrimaryLight">#CFD8DC</color>
     <color name="colorPrimaryText">#212121</color>
     <color name="colorSecondaryText">#757575</color>
-    <color name="colorIcons">#ffffff</color>
-    <color name="colorDivider">#bdbdbd</color>
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <color name="app_text_color">#283593</color>
+    <color name="app_text_hint_color">#283593</color>
+    <color name="app_text_link_color">#283593</color>
+    <color name="app_button_color">#0099cc</color>
+    <color name="app_scroll_view_back_color">#eeeeee</color>
+    <color name="app_spinner_color">#33b5e5</color>
 </resources>

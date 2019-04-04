@@ -1,10 +1,24 @@
 <resources>
     <string name="app_name">GLAFeedbacker</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
 
     <string-array name="member_type">
         <item>Who are you?</item>
         <item>Faculty</item>
         <item>Student</item>
         <item>Employee</item>
+    </string-array>
+
+    <string-array name="feed_type">
+        <item>Select feedback type?</item>
+        <item>Academic</item>
+        <item>Faculty</item>
+        <item>Students</item>
+        <item>Hostel</item>
+        <item>Mess</item>
+        <item>Training and Placement</item>
+        <item>Environment</item>
+        <item>Other</item>
     </string-array>
 </resources>

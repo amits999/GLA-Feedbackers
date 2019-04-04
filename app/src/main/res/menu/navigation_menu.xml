@@ -11,28 +11,40 @@
             android:id="@+id/nav_my_profile"
             android:icon="@drawable/my_profile"
             android:title="My Profile" />
-        <item
-            android:id="@+id/nav_imp_marked"
-            android:icon="@drawable/ic_star"
-            android:title="Important Marked" />
     </group>
 
     <item
-        android:title="Subjects"
+        android:title="Feedbacks"
         app:showAsAction="collapseActionView">
         <menu>
             <item
-                android:id="@+id/nav_java"
+                android:id="@+id/nav_hostel"
                 android:icon="@drawable/subjects_icon"
-                android:title="Java" />
+                android:title="Hostel Feedback" />
             <item
-                android:id="@+id/nav_python"
+                android:id="@+id/nav_mess"
                 android:icon="@drawable/subjects_icon"
-                android:title="Python" />
+                android:title="Mess Feedback" />
             <item
-                android:id="@+id/nav_c"
+                android:id="@+id/nav_academic"
                 android:icon="@drawable/subjects_icon"
-                android:title="C Programming" />
+                android:title="Academic Feedback" />
+            <item
+                android:id="@+id/nav_stu"
+                android:icon="@drawable/subjects_icon"
+                android:title="Student Feedback" />
+            <item
+                android:id="@+id/nav_fac"
+                android:icon="@drawable/subjects_icon"
+                android:title="Faculty Feedback" />
+            <item
+                android:id="@+id/nav_tnp"
+                android:icon="@drawable/subjects_icon"
+                android:title="Placement Feedback" />
+            <item
+                android:id="@+id/nav_env"
+                android:icon="@drawable/subjects_icon"
+                android:title="Enviroment Feedback" />
         </menu>
     </item>
 
